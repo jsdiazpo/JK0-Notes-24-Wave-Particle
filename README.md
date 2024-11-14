@@ -1,4 +1,4 @@
-# JK0-Notes-24-Wave-Particle
+# Notes on wave-particle duality
 
 These notes are intended as supporting material for the video [This is how the wave-particle duality of light was discovered](https://youtu.be/f7JvywBOGYY) on my YouTube channel. 
 
